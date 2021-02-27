@@ -6,8 +6,8 @@
 Cool Flashcard App
 
 ### App Walk-though
-
-![](https://imgur.com/gallery/SGd9ZAJ)
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+![](https://cdn.discordapp.com/attachments/746268983778607128/815092790571827220/ezgif.com-gif-maker_12.gif)
 
 ## Required
 - [X] Create New Project in Xcode
