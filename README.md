@@ -7,7 +7,6 @@ Cool Flashcard App
 
 ### App Walk-though
 
-<img src="My gif" width=200><br>
 ![]("https://imgur.com/gallery/SGd9ZAJ")
 
 ## Required
