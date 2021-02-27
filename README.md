@@ -7,7 +7,7 @@ Cool Flashcard App
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/SGd9ZAJE" width=200><br>
+<img src="https://imgur.com/gallery/SGd9ZAJ" width=200><br>
 
 ## Required
 - [X] Create New Project in Xcode
