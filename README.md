@@ -1,21 +1,22 @@
-# Flash-Card
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
-## Lab 1
+## Lab 2
 
 ### App Description
-Cool Flashcard App
+`TODO://` Add app description
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-![](https://cdn.discordapp.com/attachments/746268983778607128/815092790571827220/ezgif.com-gif-maker_12.gif)
+
+<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/W6rIDMjp.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
-- [X] Create New Project in Xcode
-- [X] Add a view for the front side of the flashcard to display the question
-- [X] Add a view for the back side of the flashcard to display the answer
-- [X] Build in logic to show the answer side when the card is tapped
-- [X] Push code to GitHub
+- [x] User can open the creation screen
+- [x] User can cancel out of the creation screen
+- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x] Push code to GitHub
 ## Optional
-- [ ] Toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
+- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can edit existing flashcard
+- [ ] User can add multiple choice answers in the creation screen
