@@ -1,12 +1,11 @@
 ## Lab 3
 
 ### App Description
-`TODO://` Add app description
+Persistant storage on my flashcard app
 
 ### App Walk-though
 
 ![My Gif](https://submissions.us-east-1.linodeobjects.com/mobile_app_design/cRUlGJgd.gif)
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can browse through multiple flashcards
