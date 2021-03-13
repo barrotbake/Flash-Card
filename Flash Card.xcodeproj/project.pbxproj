@@ -15,6 +15,7 @@
 		818CE09E25D86A90005B530B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 818CE09C25D86A90005B530B /* LaunchScreen.storyboard */; };
 		818CE0A925D86A91005B530B /* Flash_CardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818CE0A825D86A91005B530B /* Flash_CardTests.swift */; };
 		818CE0B425D86A91005B530B /* Flash_CardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818CE0B325D86A91005B530B /* Flash_CardUITests.swift */; };
+		81C66D1625F40F3000EF617F /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C66D1525F40F3000EF617F /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		818CE0AF25D86A91005B530B /* Flash CardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flash CardUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		818CE0B325D86A91005B530B /* Flash_CardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flash_CardUITests.swift; sourceTree = "<group>"; };
 		818CE0B525D86A91005B530B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81C66D1525F40F3000EF617F /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				818CE09125D86A8F005B530B /* AppDelegate.swift */,
 				818CE09325D86A8F005B530B /* SceneDelegate.swift */,
 				818CE09525D86A8F005B530B /* ViewController.swift */,
+				81C66D1525F40F3000EF617F /* CreationViewController.swift */,
 				818CE09725D86A8F005B530B /* Main.storyboard */,
 				818CE09A25D86A90005B530B /* Assets.xcassets */,
 				818CE09C25D86A90005B530B /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				818CE09625D86A8F005B530B /* ViewController.swift in Sources */,
 				818CE09225D86A8F005B530B /* AppDelegate.swift in Sources */,
 				818CE09425D86A8F005B530B /* SceneDelegate.swift in Sources */,
+				81C66D1625F40F3000EF617F /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
