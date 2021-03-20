@@ -7,10 +7,7 @@
 
 ### App Walk-though
 
-
-
-https://user-images.githubusercontent.com/40745961/111885137-1e7a8880-8983-11eb-9223-dbeea73ee8b2.mov
-
+![0m-rfb2I](https://user-images.githubusercontent.com/40745961/111885159-305c2b80-8983-11eb-8340-30bbcf4d2304.gif)
 
 
 ## Required
