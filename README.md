@@ -8,7 +8,7 @@
 ### App Walk-though
 
 
-<img src="https://imgur.com/a/qfo9y6A" width=200>
+![my-gif](https://imgur.com/a/qfo9y6A)<br/>
 
 ## Required
 - [x] User should see the app icon 
