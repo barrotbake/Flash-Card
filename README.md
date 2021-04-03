@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-![0m-rfb2I](https://user-images.githubusercontent.com/40745961/111885159-305c2b80-8983-11eb-8340-30bbcf4d2304.gif)
+![0m-rfb2I](https://imgur.com/a/eI7RvyN)
 
 
 ## Required
